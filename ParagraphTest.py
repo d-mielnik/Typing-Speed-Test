@@ -61,6 +61,3 @@ class TypeSpeedGUI:
         self.speed_label.config(text="Speed: \n 0.00 WPS \n0.00 WPM")
         self.sample_label.config(text="In 1996, a tropical cyclone named Olivia hit off the coast of Barrow Island, Australia with such \na force that it broke an incredible record. According to The Weather Channel, Olivia's eyewall \nproduced five extreme three-second wind gusts, the peak of which was a 253 mph gust, which blew \npast the previous wind record of 231 mph set in Mount Washington, New Hampshire back in 1934.")
         self.input_entry.delete(0, tk.END)
-
-
-TypeSpeedGUI()
